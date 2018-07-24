@@ -1,0 +1,14 @@
+/Users/abernal/tmp/Docs/aspnetcore/tutorials/first-web-api/samples/2.1/TodoApi/bin/Release/netcoreapp2.1/TodoApi.deps.json
+/Users/abernal/tmp/Docs/aspnetcore/tutorials/first-web-api/samples/2.1/TodoApi/bin/Release/netcoreapp2.1/TodoApi.runtimeconfig.json
+/Users/abernal/tmp/Docs/aspnetcore/tutorials/first-web-api/samples/2.1/TodoApi/bin/Release/netcoreapp2.1/TodoApi.runtimeconfig.dev.json
+/Users/abernal/tmp/Docs/aspnetcore/tutorials/first-web-api/samples/2.1/TodoApi/bin/Release/netcoreapp2.1/TodoApi.dll
+/Users/abernal/tmp/Docs/aspnetcore/tutorials/first-web-api/samples/2.1/TodoApi/bin/Release/netcoreapp2.1/TodoApi.pdb
+/Users/abernal/tmp/Docs/aspnetcore/tutorials/first-web-api/samples/2.1/TodoApi/obj/Release/netcoreapp2.1/TodoApi.csprojAssemblyReference.cache
+/Users/abernal/tmp/Docs/aspnetcore/tutorials/first-web-api/samples/2.1/TodoApi/obj/Release/netcoreapp2.1/TodoApi.csproj.CoreCompileInputs.cache
+/Users/abernal/tmp/Docs/aspnetcore/tutorials/first-web-api/samples/2.1/TodoApi/obj/Release/netcoreapp2.1/TodoApi.RazorAssemblyInfo.cache
+/Users/abernal/tmp/Docs/aspnetcore/tutorials/first-web-api/samples/2.1/TodoApi/obj/Release/netcoreapp2.1/TodoApi.RazorAssemblyInfo.cs
+/Users/abernal/tmp/Docs/aspnetcore/tutorials/first-web-api/samples/2.1/TodoApi/obj/Release/netcoreapp2.1/TodoApi.AssemblyInfoInputs.cache
+/Users/abernal/tmp/Docs/aspnetcore/tutorials/first-web-api/samples/2.1/TodoApi/obj/Release/netcoreapp2.1/TodoApi.AssemblyInfo.cs
+/Users/abernal/tmp/Docs/aspnetcore/tutorials/first-web-api/samples/2.1/TodoApi/obj/Release/netcoreapp2.1/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/abernal/tmp/Docs/aspnetcore/tutorials/first-web-api/samples/2.1/TodoApi/obj/Release/netcoreapp2.1/TodoApi.dll
+/Users/abernal/tmp/Docs/aspnetcore/tutorials/first-web-api/samples/2.1/TodoApi/obj/Release/netcoreapp2.1/TodoApi.pdb
